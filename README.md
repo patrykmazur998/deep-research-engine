@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Protocol: Stanford STORM](https://img.shields.io/badge/Protocol-Stanford%20STORM-orange.svg)](https://storm.genie.stanford.edu/)
 [![Tested On](https://img.shields.io/badge/Tested%20On-Cursor%20%7C%20Claude%20%7C%20Windsurf%20%7C%20Antigravity-success.svg)]()
-[![Get PRO on Lemon Squeezy](https://img.shields.io/badge/⚡%20Get%20PRO%20Suite-Lemon%20Squeezy-purple.svg)](https://antigravity-studio.lemonsqueezy.com)
+[![Get PRO on Lemon Squeezy](https://img.shields.io/badge/⚡%20Get%20PRO%20Suite-Lemon%20Squeezy-purple.svg)](https://antigravity-studio.lemonsqueezy.com/checkout/buy/46f59b29-2dd6-4f2f-8a26-e9cb06f8d15f?discount_code=ANTIGRAVITY10)
 
 > **Turn Claude Code, Cursor, Windsurf, and Google Antigravity into autonomous, multi-perspective research intelligence engines.**  
 > Stop accepting shallow AI summaries that hallucinate facts and miss enterprise-grade architectural edge cases.
@@ -90,7 +90,7 @@ Copy the prompt template from [`community_edition/templates/STORM_RESEARCH_PROMP
 
 ## 📊 Free Community vs. Pro Commercial Suite
 
-| Capability | Community Edition (Free) | [Pro Commercial Suite (Lemon Squeezy)](https://antigravity-studio.lemonsqueezy.com) |
+| Capability | Community Edition (Free) | [Pro Commercial Suite (Lemon Squeezy)](https://antigravity-studio.lemonsqueezy.com/checkout/buy/46f59b29-2dd6-4f2f-8a26-e9cb06f8d15f?discount_code=ANTIGRAVITY10) |
 | :--- | :---: | :---: |
 | **Stanford STORM Core Prompts** | ✅ Basic Outline | ✅ Automated Full Engine |
 | **CLI Research Planner** | ✅ Quick CLI | ✅ Multi-Agent Orchestrator (`research_planner.py`) |
@@ -102,7 +102,9 @@ Copy the prompt template from [`community_edition/templates/STORM_RESEARCH_PROMP
 | **Executive KaTeX Publishing Templates**| ❌ | ✅ Publication-Grade Blueprints |
 | **Lifetime Updates & New Protocols** | ❌ | ✅ Included |
 
-👉 **[Upgrade to Deep Research Engine Pro on Lemon Squeezy](https://antigravity-studio.lemonsqueezy.com)** to get the complete automated intelligence architecture!
+👉 **[Upgrade to Deep Research Engine Pro on Lemon Squeezy](https://antigravity-studio.lemonsqueezy.com/checkout/buy/46f59b29-2dd6-4f2f-8a26-e9cb06f8d15f?discount_code=ANTIGRAVITY10)** to get the complete automated intelligence architecture!
+
+> 🏷️ **Launch Discount:** Use code **`ANTIGRAVITY10`** at checkout for an instant **10% discount**.
 
 ---
 
