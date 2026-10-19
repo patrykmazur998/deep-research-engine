@@ -61,7 +61,7 @@ Deep Research Engine implements the **Stanford STORM** (*Synthesis of Topic Outl
 
 ---
 
-## 📸 Architecture & Workflow (Apple Design System)
+## 📸 Architecture & Workflow Overview
 
 <p align="center">
   <img src="assets/slide_01.jpg" alt="STORM Architecture" width="48%">
@@ -110,7 +110,7 @@ Copy the prompt template from [`community_edition/templates/STORM_RESEARCH_PROMP
 
 ```text
 deep-research-engine/
-├── assets/                          # Apple Light Mode banners and diagrams
+├── assets/                          # Architecture diagrams and visual blueprints
 ├── community_edition/               # Free open-source tools
 │   ├── scripts/
 │   │   └── quick_storm_planner.py   # Lightweight CLI planner
